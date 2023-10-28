@@ -1,7 +1,16 @@
 
+
 # Rent A Bike App
 
 This is a app UI made for internship Opportunity.
+
+
+
+## Deployment
+
+To deploy this project download
+
+https://github.com/suraj-yadav0/bike_app/releases/download/ui/base.apk
 
 
 
